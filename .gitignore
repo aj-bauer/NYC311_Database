@@ -1,0 +1,10 @@
+# Data folder
+/Data/
+
+# Code checkpoints
+/Code/.ipynb_checkpoints/
+
+# Data file types
+*.csv
+*.xlsx
+*.json
